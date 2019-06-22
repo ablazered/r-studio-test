@@ -20,9 +20,18 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+```{r unnamed}
+print("test")
+```
+
 ## Including Plots
 
-You can also embed plots, for example:
+- You 
+- can 
+- also embed plots, for example:
+
+[text that is shown](link.com)
+
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
